@@ -1,0 +1,6 @@
+C:\Users\keith\source\repos\Mathiplier\Mathiplier\bin\Debug\Mathiplier.exe.config
+C:\Users\keith\source\repos\Mathiplier\Mathiplier\bin\Debug\Mathiplier.exe
+C:\Users\keith\source\repos\Mathiplier\Mathiplier\bin\Debug\Mathiplier.pdb
+C:\Users\keith\source\repos\Mathiplier\Mathiplier\obj\Debug\Mathiplier.csproj.CoreCompileInputs.cache
+C:\Users\keith\source\repos\Mathiplier\Mathiplier\obj\Debug\Mathiplier.exe
+C:\Users\keith\source\repos\Mathiplier\Mathiplier\obj\Debug\Mathiplier.pdb
